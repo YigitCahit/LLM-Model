@@ -129,12 +129,8 @@ Bu, "merhaba" ile başlayan ve 20 kelime uzunluğunda bir metin üretir.
 - Model tamamıyla sıfırdan geliştirilmiştir (harici ML kütüphaneleri kullanılmamıştır)
 - Tüm matematiksel işlemler NumPy veya benzeri kütüphaneler olmadan uygulanmıştır
 - Model yapısı ve eğitim algoritması tamamen Python ile kodlanmıştır
+- Proje eğitsel amaçlı geliştirilmiştir ve aktif geliştirme aşamasındadır
 
 ## Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
-
----
-
-**Python Sürümü**: 3.7+  
-**Durum**: Aktif geliştirme aşamasında
+MIT
